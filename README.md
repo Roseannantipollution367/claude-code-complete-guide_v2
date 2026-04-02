@@ -10,9 +10,16 @@
 
 ## 下载 PDF
 
-**[下载 PDF 版本（带书签，~28MB）](https://bcefghj.github.io/claude-code-complete-guide_v2/claude-code-complete-guide-v2.pdf)**
+**[前往 Release 页面下载 PDF（带书签，~28MB）](https://github.com/bcefghj/claude-code-complete-guide_v2/releases/tag/v2.0.0)**
 
 PDF 版本包含全部 20 篇 187 节内容，带有完整书签目录导航、页眉页脚页码、精美封面。
+
+也可以本地生成：
+
+```bash
+npm install puppeteer-core
+npm run docs:pdf
+```
 
 ## 项目简介
 

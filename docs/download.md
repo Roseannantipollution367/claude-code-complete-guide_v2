@@ -2,7 +2,7 @@
 
 ## PDF 版本
 
-**[下载 Claude Code 完全指南 V2 (PDF, ~28MB)](/claude-code-complete-guide_v2/claude-code-complete-guide-v2.pdf)**
+**[前往 GitHub Release 页面下载 PDF (带书签, ~28MB)](https://github.com/bcefghj/claude-code-complete-guide_v2/releases/tag/v2.0.0)**
 
 PDF 版本包含全部 20 篇 187 节内容，带有完整书签导航。
 
