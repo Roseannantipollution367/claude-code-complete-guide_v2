@@ -8,6 +8,12 @@
 
 **[点击这里在线阅读](https://bcefghj.github.io/claude-code-complete-guide_v2)**
 
+## 下载 PDF
+
+**[下载 PDF 版本（带书签，~28MB）](https://bcefghj.github.io/claude-code-complete-guide_v2/claude-code-complete-guide-v2.pdf)**
+
+PDF 版本包含全部 20 篇 187 节内容，带有完整书签目录导航、页眉页脚页码、精美封面。
+
 ## 项目简介
 
 2026年3月31日，Claude Code v2.1.88 的 **51.2 万行 TypeScript 源码** 意外泄露。本书基于这份完整源码和全网优质解读，打造一本**零基础也能看懂**的全面学习指南。

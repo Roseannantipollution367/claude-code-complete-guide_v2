@@ -34,6 +34,7 @@ export default withMermaid(
             { text: '实战Lab', link: '/part19-labs/' },
           ]
         },
+        { text: '下载PDF', link: '/download' },
         {
           text: '相关项目',
           items: [

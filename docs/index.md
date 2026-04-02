@@ -13,6 +13,9 @@ hero:
       text: 快速上手
       link: /part02-quickstart/
     - theme: alt
+      text: 下载 PDF
+      link: /claude-code-complete-guide_v2/claude-code-complete-guide-v2.pdf
+    - theme: alt
       text: GitHub
       link: https://github.com/bcefghj/claude-code-complete-guide_v2
 
