@@ -10,6 +10,8 @@
     "docs:pdf": "node scripts/build-pdf.mjs"
   },
   "dependencies": {
+    "markdown-it": "^14.1.1",
+    "markdown-it-anchor": "^9.2.0",
     "md-to-pdf": "^5.2.5"
   },
   "devDependencies": {
